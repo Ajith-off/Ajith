@@ -36,21 +36,21 @@
 | App | Description |
 |-----|-------------|
 | ✍️ **Tamil Letter Tracing** | A fun app for kids to learn and trace Tamil letters |
-| 😄 **CWC Stickers** | A sticker pack app for Android |
+| 😄 **Tamil Stickers** | A sticker pack app for Android |
 
-👉 See all my apps here: **[My Play Store Showcase](https://ajith-off.github.io/PlayStore/)**
+👉 See all my apps here: **[My Play Store Showcase]([https://ajith-off.github.io/PlayStore/](https://play.google.com/store/apps/dev?id=5417775009886952000&hl=en))**
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ak-aji&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak-aji&layout=compact&theme=tokyonight&hide_border=true&hide=html" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ajith-off&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajith-off&layout=compact&theme=tokyonight&hide_border=true&hide=html" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ak-aji&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajith-off&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
@@ -59,7 +59,7 @@
 
 <p align="center">
   <a href="https://ajith-off.github.io/PlayStore/" target="_blank"><img src="https://img.shields.io/badge/My_Apps-2196F3?style=for-the-badge&logo=googleplay&logoColor=white" alt="My Apps" /></a>
-  <a href="https://ak-aji.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://Ajith-off.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:ajithkumar8067@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
